@@ -1,0 +1,30 @@
+.appContainerTitle{
+  font-family: var(--primaryFont);
+  font-size: 1.4rem;
+}
+
+
+.appContainerServices{
+  display: flex;
+  flex-direction: column;
+}
+
+.appContainerServicesCard{
+  display: flex;
+  flex-direction: column;
+  margin: 2.4rem;
+  font-family: var(--primaryFont);
+  background-color: var(--whitteColor);
+}
+.appContainerServicesCardText{
+  display: flex;
+  flex-direction: column;
+}
+.appContainerServicesCardTextTitle{
+  font-size:2.4rem ;
+  font-weight: 700;
+}
+.appContainerServicesCardTextContent{
+  font-size: 1.6rem;
+  font-weight:400;
+}
